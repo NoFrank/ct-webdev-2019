@@ -1,4 +1,6 @@
-# ctwd
+# vue-complex-forms
+
+Sample-App und Slides zum Talk "Komplexe Formulare mit Vue.js" auf der [c't<webdev>](https://ctwebdev.de/) 2019.
 
 ## Project setup
 ```
@@ -32,4 +34,3 @@ yarn run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# vue-complex-forms
