@@ -1,6 +1,6 @@
 # vue-complex-forms
 
-Sample-App und Slides zum Talk "Komplexe Formulare mit Vue.js" auf der [c't<webdev>](https://ctwebdev.de/) 2019.
+Sample-App und Slides zum Talk "Komplexe Formulare mit Vue.js" auf der [c't&#x3C;webdev&#x3E;](https://ctwebdev.de/) 2019.
 
 ## Project setup
 ```
